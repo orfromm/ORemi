@@ -1,1 +1,3 @@
-console.log("first try");
+import {pullTile, getStartingTiles} from "./tiles";
+
+console.log(pullTile());
